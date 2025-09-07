@@ -1,7 +1,8 @@
 <!-- Banner Girl Coding GIF -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" alt="girl coding"/>
+  <img src="https://cdn.pixabay.com/photo/2017/01/31/21/23/woman-2029963_1280.png" width="600" alt="girl coding"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Shaik Syeda Mahin</h1>
 
