@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ5yZ8ZCcqz04/giphy.gif" width="600" alt="girl working"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="600" alt="girl coding"/>
 </p>
 ---
 
