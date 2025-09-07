@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7729F&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="600" alt="girl developer"/>
 </p>
 
 ---
