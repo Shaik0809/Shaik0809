@@ -7,9 +7,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="600" alt="girl developer"/>
+  <img src="https://media.giphy.com/media/3o7TKsQ5yZ8ZCcqz04/giphy.gif" width="600" alt="girl working"/>
 </p>
-
 ---
 
 ### 👩‍💻 About Me
